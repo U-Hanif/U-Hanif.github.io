@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Umara Hanif'
 # Website URL
-baseURL: "https://anonyni.github.io/"
+baseURL: "https://u-hanif.github.io/"
 
 ############################
 ## LANGUAGE
