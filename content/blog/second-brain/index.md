@@ -1,16 +1,20 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 How I Think, Read, and Build Ideas
+summary: Notes on research thinking, neuroscience, communication, and building a long-term intellectual framework.
+date: 2026-02-26
 authors:
   - me
 tags:
-  - Second Brain
-  - Markdown
+  - Research Thinking
+  - Neuroscience
+  - Communication
+  - Notes
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: "Thinking is a system, not an event."
+
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2560"
   position:
     x: 50
     y: 40
@@ -23,118 +27,113 @@ cover:
     enabled: true
     height: "80px"
   icon:
-    name: "✨"
+    name: "🧠"
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+Beyond FPGA security and IoT systems, I spend a significant amount of time thinking about **how we think**.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+This page is my evolving collection of ideas on:
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+- Decision-making
+- Communication
+- Learning
+- Research habits
+- Building clarity in complex systems
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+---
 
-## Mindmaps
+## Why This Matters to Me
 
-Hugo Blox supports a Markdown extension for mindmaps.
+Security research is not just about code, hardware, or protocols.  
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+It is about:
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+- Understanding adversarial behavior  
+- Modeling uncertainty  
+- Communicating risk clearly  
+- Designing systems that humans can actually operate safely  
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+That requires more than technical knowledge — it requires structured thinking.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
-</code>
-</pre>
-</div>
+---
 
-renders as
+## Books That Have Influenced Me
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
+Some books that shaped how I approach research and communication:
 
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
+- **How Emotions Are Made** — Lisa Feldman Barrett  
+- **Thinking, Fast and Slow** — Daniel Kahneman  
+- **The Tell-Tale Brain** — V.S. Ramachandran  
+- **Social: Why Our Brains Are Wired to Connect** — Matthew Lieberman  
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/kit)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
+These works influence how I:
 
-renders as
+- interpret experimental results  
+- think about bias in evaluation  
+- communicate technical ideas to different audiences  
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/kit)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
 
-## Highlighting
+## Podcasts & Voices I Learn From
 
-<mark>Highlight</mark> important text with `mark`:
+Beyond books, I regularly listen to podcasts that explore psychology, neuroscience, performance, and communication. These shape how I think about research, resilience, and leadership.
 
-```html
-<mark>Highlighted text</mark>
-```
+- **Mel Robbins**  
+  Practical tools for confidence, decision-making, and overcoming hesitation. Her frameworks on action and momentum resonate strongly during thesis-writing and job transitions.
 
-## Callouts
+- **Dr. Wendy Suzuki**  
+  Neuroscientist focused on brain plasticity, exercise, and memory. Her work reinforces how cognitive performance is trainable and how stress can be reframed productively.
 
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
+- **Dr. Tara Swart**  
+  Insights on neuroplasticity, mindset, and how thoughts shape long-term outcomes. Helpful in thinking about habits and sustained research productivity.
 
-Use the `> [!NOTE]` syntax to create a callout.
+- **Vanessa Van Edwards**  
+  Science-based communication strategies, non-verbal cues, and interpersonal intelligence — extremely relevant when presenting research or teaching.
 
-```markdown
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-```
+- **Rob Dial**  
+  Deep dives into mindset, discipline, and clarity. His reflections often connect strongly with long-term goal setting and resilience during challenging research phases.
 
-renders as
+These voices influence how I approach:
 
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+- Handling reviewer feedback constructively  
+- Communicating technical ideas with clarity  
+- Managing stress and cognitive load  
+- Maintaining consistency in long-term projects  
 
-Or use the `warning` callout type so your readers don't miss critical details:
+---
 
-> [!WARNING]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+## How I Organize My Research Thinking
 
-## Did you find this page helpful? Consider sharing it 🙌
+I treat research like a layered system:
+
+### 1. Technical Layer
+- Code
+- Experiments
+- Hardware validation
+- Performance metrics
+
+### 2. Conceptual Layer
+- Threat models
+- Assumptions
+- Failure boundaries
+- Generalization limits
+
+### 3. Communication Layer
+- Can I explain this in 3 sentences?
+- Can a non-expert understand the risk?
+- Does the framing reflect the real-world impact?
+
+---
+
+## Long-Term Goal
+
+To build systems that are:
+
+- Secure by design  
+- Efficient under constraint  
+- Understandable by humans  
+
+And to communicate those systems clearly.
+
+---
+
+If you’re interested in how research thinking intersects with neuroscience and communication, this space will gradually grow with notes and reflections.

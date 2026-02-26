@@ -1,28 +1,58 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
-date: 2025-09-24
+title: Courses Assisted (Teaching Assistant)
 type: docs
-
+date: 2026-02-25
 tags:
-  - Hugo Blox
   - Course
+  - NUS
+  - ECE
 
 content_meta:
-  content_type: 'Course'
-  difficulty: 'Beginner'
-  prerequisites: ['Markdown']
-  trending: false
+  content_type: "Teaching"
+  role: "Teaching Assistant"
+  institution: "National University of Singapore"
+  location: "Singapore"
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+I have served as a **Teaching Assistant (Part-time)** at the **National University of Singapore** from **Jan 2023 to May 2025**, supporting lectures, tutorials/labs, and assessment activities across multiple undergraduate and postgraduate modules.
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+## AY2024/2025
 
-## Next
+### Semester 2
+- **CEG5302 — Evolutionary Computation and Applications**
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+### Semester 1
+- **CEG5203 — Hardware Acceleration and Reconfigurable Computing**
+
+---
+
+## AY2023/2024
+
+### Semester 2
+- **CG2028 — Computer Architecture**
+- **CEG5203 — Hardware Acceleration and Reconfigurable Computing**
+- **EE4218 — Embedded Hardware System Design**
+
+### Semester 1
+- **CG3207 — Computer Architecture**
+- **CG2028 — Computer Organisation**
+
+---
+
+## AY2022/2023
+
+### Semester 2
+- **EE2026 — Digital Design**
+
+---
+
+## Responsibilities
+
+Across these modules, my responsibilities included:
+
+- Conducting **tutorials and lab sessions** on computer architecture, digital design, and hardware acceleration.
+- Providing **consultations and mentoring** to students on FPGA/embedded system implementation and debugging.
+- Assisting in **grading assignments, lab reports, and exams**, ensuring fair and constructive feedback.
+- Supporting **course instructors** with preparation of teaching materials and hands-on exercises.
