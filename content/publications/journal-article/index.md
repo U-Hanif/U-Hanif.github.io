@@ -50,6 +50,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# projects: []
-# slides: ""
-# ---
+projects: []
+slides: ""
+---
