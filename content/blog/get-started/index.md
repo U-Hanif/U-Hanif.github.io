@@ -66,7 +66,7 @@ Right now I am:
 
 I’m waiting to see how it will go after major revision submission.
 
-### Crashing Smarter and Catching in IoT-Class FPGAs
+### Crashing Smarter and Catching Faster in IoT-Class FPGAs
 
 I’m also revising a paper on **“crashing smarter and catching faster in IoT-class FPGAs”**, which currently also has a **major revision** decision.
 
@@ -80,7 +80,7 @@ It’s a lot of back-and-forth between code, experiments, and reviewer comments�
 
 ### FFAT (WOOT ’26 Submission)
 
-I also submitted **\textit{FFAT: A Semantics-Driven Framework for Robust and Scalable FPGA Fuzzing and Anomaly Detection}** to **USENIX WOOT ’26**.
+I also submitted **_FFAT: A Semantics-Driven Framework for Robust and Scalable FPGA Fuzzing and Anomaly Detection_** to **USENIX WOOT ’26**.
 
 This work focuses on improving the scalability and robustness of FPGA fuzzing by incorporating semantics-aware guidance to surface meaningful anomalies, strengthen coverage, and better characterize runtime security risks in FPGA-based systems.
 
@@ -88,9 +88,9 @@ This work focuses on improving the scalability and robustness of FPGA fuzzing by
 
 In parallel, I’m **actively looking for full-time positions**, especially roles that sit at the intersection of:
 
-- **hardware / FPGA / IoT security**
-- **systems and platform security**
-- **applied research or research-engineer positions** in industry or research labs
+- **Hardware / FPGA / IoT security**
+- **Systems and Slatform Security and Optimisation**
+- **Applied Research or Research Fellow positions** in industry or research labs
 
 Right now that means:
 
