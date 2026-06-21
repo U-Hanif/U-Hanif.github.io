@@ -1,6 +1,6 @@
 ---
 title: "Umara Hanif"
-role: "Final-year Ph.D. Student | FPGA & IoT Security"
+role: "Research Fellow at NUS | Hardware Security"
 
 organizations:
   - name: "National University of Singapore (NUS)"
@@ -25,4 +25,4 @@ social:
 avatar:
   filename: "avatar.jpg"
 ---
-I’m a final-year Ph.D. student at NUS (ECE) focused on securing cyber-physical and embedded systems against sophisticated hardware and firmware threats. 
+I’m a research fellow at NUS (ECE) focused on securing cyber-physical and embedded systems against sophisticated hardware and firmware threats. 

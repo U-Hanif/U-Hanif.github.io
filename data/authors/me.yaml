@@ -15,12 +15,13 @@ postnominals:
 status:
   icon: "💻☕️"
 
-role: "Final-Year Ph.D. Student | FPGA & IoT Security Researcher"
+role: "Research Fellow at NUS | Hardware Security Researcher"
 
 bio: |
-  Umara Hanif is a final-year Ph.D. candidate at the National University of Singapore (NUS), specializing in FPGA security, IoT swarm attestation, and hardware-level intrusion detection. 
+  Umara Hanif is a Research Fellow at the National University of Singapore (NUS), where she works on FPGA, RF, wireless, cognitive-device, and IoT security.
 
-  Her research focuses on securing cyber-physical and embedded systems against sophisticated hardware Trojans, firmware tampering, and runtime attacks using machine learning and formal methods.
+  Her research focuses on protecting cyber-physical, embedded, and resource-constrained systems against hardware Trojans, firmware tampering, software-triggerable faults, and runtime attacks using machine learning, anomaly detection, and formal methods.
+
 
 affiliations:
   - name: "National University of Singapore (NUS)"
