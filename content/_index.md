@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Umara Hanif'
+title: 'Umara Hanif | FPGA, Hardware and IoT Security Researcher'
 summary: ''
 date: 2022-10-24
 type: landing
