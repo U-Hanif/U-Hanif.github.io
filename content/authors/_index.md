@@ -1,6 +1,6 @@
 ---
 title: "Umara Hanif"
-role: "Research Fellow at NUS | Hardware Security"
+role: "Research Fellow | Hardware Security"
 
 organizations:
   - name: "National University of Singapore (NUS)"

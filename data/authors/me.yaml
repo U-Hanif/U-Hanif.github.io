@@ -10,12 +10,12 @@ name:
   pronouns: "she/her"
 
 postnominals:
-  - "PhD (Candidate)"
+  - "Research Fellow"
 
 status:
   icon: "💻☕️"
 
-role: "Research Fellow at NUS | Hardware Security Researcher"
+role: "Research Fellow | Hardware Security Researcher"
 
 bio: |
   Umara Hanif is a Research Fellow at the National University of Singapore (NUS), where she works on FPGA, RF, wireless, cognitive-device, and IoT security.
