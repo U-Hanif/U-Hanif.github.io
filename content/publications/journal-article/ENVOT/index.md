@@ -18,13 +18,13 @@ publication_types:
 publication: "*IEEE Open Journal of the Computer Society*"
 publication_short: "IEEE OJCS"
 
-doi: "10.1109/OJCS.2026.3703342"
+# doi: "10.1109/OJCS.2026.3703342"
 
 abstract: |
   Securing large-scale Internet of Things swarms requires attestation
   mechanisms that can identify anomalous or compromised devices while
   accounting for the resource constraints and behavioural diversity of IoT
-  environments. This paper presents **ENVOT**, an anomaly-based attestation
+  environments. This paper presents ENVOT, an anomaly-based attestation
   framework for IoT swarms that combines ensemble classifiers with a voting
   mechanism to improve detection reliability. ENVOT uses runtime behavioural
   and memory-related features to distinguish benign devices from anomalous or
@@ -36,7 +36,7 @@ abstract: |
   for resource-constrained IoT swarms.
 
 summary: |
-  We propose **ENVOT**, an anomaly-based attestation framework for IoT swarms
+  We propose ENVOT, an anomaly-based attestation framework for IoT swarms
   that combines ensemble classifiers and a voting mechanism to provide robust
   and scalable detection of compromised devices.
 
@@ -57,8 +57,12 @@ tags:
 featured: true
 
 links:
+- type: pdf
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11563635"
 - type: doi
   url: "https://doi.org/10.1109/OJCS.2026.3703342"
+- type: dataset
+  url: "https://ieee-dataport.org/documents/ram-data-frames-swarm-iot-attestation"
 
 image:
 caption: "ENVOT framework for anomaly-based attestation of IoT swarms using ensemble classification and voting"

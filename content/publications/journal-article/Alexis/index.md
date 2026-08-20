@@ -17,7 +17,7 @@ abstract:
  Ensuring the security of FPGA-enabled cyber-physical systems is critical in safety-sensitive and mission-critical environments. This paper presents **Alexis**, a novel anomaly-based intrusion detection framework for FPGA bitstreams using an autoencoder-driven approach. Alexis leverages entropy-ranked feature selection and checksum-based integrity validation combined with reconstruction-error analysis to detect hardware Trojans and configuration-time tampering. Experimental evaluation on real FPGA platforms demonstrates detection accuracy of up to 91%, high AUC values reaching 0.96, and minimal computational overhead. The results validate Alexis as a scalable and efficient attestation mechanism for enhancing FPGA security in resource-constrained cyber-physical systems.
 
 summary: 
- We propose **Alexis**, an autoencoder-based anomaly detection framework for FPGA bitstream attestation, achieving high detection accuracy and low computational overhead for cyber-physical systems security.
+ We propose Alexis, an autoencoder-based anomaly detection framework for FPGA bitstream attestation, achieving high detection accuracy and low computational overhead for cyber-physical systems security.
 
 tags:
 - FPGA Security
@@ -33,11 +33,13 @@ featured: true
 
 links:
   - type: pdf
-    url: "https://drive.google.com/file/d/1bJloVdXypzvLUkW1YuIBCUsMPf3LoD9o/view"
-  - type: code
-    url: "https://github.com/uhanif6/Alexis"
+    url: "https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/ticps_umara_26.pdf"
+  - type: doi
+    url: "https://ieeexplore.ieee.org/abstract/document/11316837"
   - type: dataset
     url: "https://dx.doi.org/10.21227/aqc1-dv65"
+  # - type: cite
+  #   url: "https://dx.doi.org/10.21227/aqc1-dv65"
   # <!-- # - type: slides
   # #   url: ""
   # # - type: video
